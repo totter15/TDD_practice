@@ -1,0 +1,12 @@
+{
+	"dependencies": {
+		"jest": "^29.2.2"
+	},
+	"scripts": {
+		"test": "jest --watchAll --verbose"
+	},
+	"name": "TDD_practice",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT"
+}
